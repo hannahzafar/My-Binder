@@ -1,2 +1,2 @@
 # My-Binder
-Catchall repository on GitHub
+# This is a catch-all repository on GitHub for the owner
