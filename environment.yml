@@ -3,15 +3,20 @@ channels:
   - conda-forge
 dependencies:
   - python=3.9
-  - numpy
-  - time
+  - cartopy
+  - jupyter-book
+  - jupyterlab
   - matplotlib
-  - pandas
-  - xarray
-  
-  - dill
-  - psutil
-  - toolz
-  - partd
-  - bokeh
+  - nc-time-axis
+  - netcdf4
+  - numpy
+  - pip
+  - pre-commit
   - dask
+  - pyproj
+  - pythia-datasets
+  - scipy
+  - ffmpeg
+  - xarray
+  - python-graphviz
+  - graphviz
